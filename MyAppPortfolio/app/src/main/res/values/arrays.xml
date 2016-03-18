@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myAppNames">
+        <item>SPOTIFY STREAMER</item>
+        <item>SCORES</item>
+        <item>LIBRARY</item>
+        <item>BUILD IT BIGGER</item>
+        <item>XYZ READER</item>
+        <item>CAPSTONE:MY OWN</item>
+    </string-array>
+</resources>
